@@ -1,0 +1,6 @@
+//https://triplex.dev/docs/api-reference/config
+{
+  "files": ["../src/**/*.tsx"]
+    "components": ["../src/components/**/*.tsx"]
+    "publicDir": ["../public"]   //localhost:3333/"asset"
+}

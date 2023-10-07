@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('subset-PressStart2P-Regular.woff') format('woff2'),
+        url('subset-PressStart2P-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+  }
+
+  @font-face {
+    font-family: 'Minecraftia';
+    src: url('subset-Minecraftia-Regular.woff') format('woff2'),
+         url('subset-ComingSoon-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+  }
+
+  @font-face {
+    font-family: 'Nura Normal';
+    src: url('subset-Nura-Normal.woff') format('woff2'),
+         url('subset-Nura-Normal.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+  }
+
+  @font-face {
+    font-family: 'Coming Soon';
+    src: url('subset-ComingSoon-Regular.woff') format('woff2'),
+         url('subset-ComingSoon-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+  }
